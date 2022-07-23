@@ -43,10 +43,16 @@
                     <p>Website ini berisi latihan dan tugas saya dalam perkuliahan Pemrograman Web Lanjut (PWL X6I) Universitas Indraprasta
                         PGRI.</p>
                     <p>Adapun <i>sourcecode</i> latihan ini disimpan pada <i>public repository</i> <a href="https://github.com/adityapryg/X5IWEBDASAR">github</a> dengan file
-                        latihan permateri dapat ditemukan pada folder public/lessons.</p>
+                        latihan permateri dapat ditemukan pada folder <a href="https://github.com/adityapryg/pwl/tree/master/public/lessons">public/lessons</a>.</p>
                     <p>Berikut adalah list latihan yang insyaallah akan terus diupdate</p>
 
                     <ul class="list">
+                        <li class="item-list">
+                            <a class="box text-primary" href="{{ url('lessons/tugas-besar/') }}">
+                                <h5>Tugas Besar</h5>
+                                <p style="font-size: smaller"></p>
+                            </a>
+                        </li>
                         <li class="item-list">
                             <a class="box text-primary" href="{{ url('lessons/9/') }}">
                                 <h5>9. PHP Module</h5>
