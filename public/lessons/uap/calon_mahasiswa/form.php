@@ -1,7 +1,7 @@
 <?php
     include '../koneksi.php';
     if (isset($_GET['kode_calon_mhs'])){
-        //get data mahasiswa
+        //get data mahasiswa untuk edit
         $query = "SELECT * FROM table_calon_mhs 
                     WHERE kode_calon_mhs = '$_GET[kode_calon_mhs]'
                     LIMIT 1";
@@ -9,7 +9,6 @@
             mysqli_query($koneksi, $query)
         );
     }
-    //langsung apabila tidak ada parameter kode_calon_mhs
 ?>
 <h2>Formulir Calon Mahasiswa</h2>
 <form method="GET" action="save.php">

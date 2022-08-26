@@ -7,8 +7,6 @@
         return "'$input'";
     }, $_GET));
 
-    print_r($inputan);
-
     $query = "INSERT INTO table_seleksi (
         kode_seleksi, kode_calon_mhs, nilai_tkda, nilai_matematika, nilai_wawancara, rata_rata)
         values ($inputan)";
