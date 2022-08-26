@@ -5,7 +5,7 @@
 ?>
 
 <h2>Data Calon Mahasiswa</h2>
-<a href="create.php">Tambah</a>
+<a href="create.php"><button>Tambah</button></a><br/><br/>
 <table border="1">
     <tr>
         <th>Kode</th>
