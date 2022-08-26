@@ -13,6 +13,7 @@
 ?>
 <h2>Formulir Calon Mahasiswa</h2>
 <form method="GET" action="save.php">
+<?= isset($mahasiswa) ? '<input type="hidden" name="aksi" value="edit">' : ''?>
     <table>
         <tr>
             <td>Kode</td>
