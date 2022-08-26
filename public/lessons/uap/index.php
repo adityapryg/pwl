@@ -48,6 +48,12 @@
                         <p style="font-size: smaller"></p>
                     </a>
                 </li>
+                <li>
+                    <a class="box text-primary" href="uap/4/calon_mahasiswa/read.php">
+                        <h5>4</h5>
+                        <p style="font-size: smaller"></p>
+                    </a>
+                </li>
             </ul>
             <p>&mdash; Aditya Prayoga<a href="https://github.com/adityapryg"> (github.com/adityapryg)</a></p>
         </div>
