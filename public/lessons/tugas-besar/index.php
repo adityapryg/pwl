@@ -7,6 +7,6 @@
     <title>Tugas Besar</title>
 </head>
 <body>
-    <a href="tugas-satu.php">Tugas Nomor 1</a> | <a href="tugas-dua.php">Tugas Nomor 2</a>
+    <a href="tugas-besar/tugas-satu.php">Tugas Nomor 1</a> | <a href="tugas-besar/tugas-dua.php">Tugas Nomor 2</a>
 </body>
 </html>

@@ -59,6 +59,11 @@
                                 <p style="font-size: smaller">Belajar penggunaan include dan require PHP</p>
                             </a>
                         </li>
+                        <li class="item-list">
+                            <a class="box text-primary" href="{{ url('lessons/uap/') }}">
+                                <h5>Ujian Akhir Paket</h5>
+                            </a>
+                        </li>
                     </ul>
                     <p>&mdash; Aditya Prayoga<a href="https://github.com/adityapryg"> (github.com/adityapryg)</a></p>
                 </div>
