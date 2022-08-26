@@ -17,7 +17,7 @@
     <table>
         <tr>
             <td>Kode</td>
-            <td>= <input type="text" maxlength="5" name="kode_calon_mhs" value="<?= $mahasiswa['kode_calon_mhs'] ??= '' ?>"></td>
+            <td>= <input type="text" maxlength="12" name="kode_calon_mhs" value="<?= $mahasiswa['kode_calon_mhs'] ??= '' ?>"></td>
         </tr>
         <tr>
             <td>Nama</td>
