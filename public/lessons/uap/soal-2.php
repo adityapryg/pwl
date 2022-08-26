@@ -28,6 +28,7 @@
 <body>
    <ol>
         <li>CREATE DATABASE db_uap2046;</li>
+        <li>USE db_uap2046;</li>
         <li>CREATE TABLE table_calon_mhs (
                 kode_calon_mhs varchar(5), 
                 nama_calon_mhs varchar(30),
