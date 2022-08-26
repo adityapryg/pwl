@@ -36,6 +36,12 @@
                         <p style="font-size: smaller"></p>
                     </a>
                 </li>
+                <li>
+                    <a class="box text-primary" href="uap/soal-2.php">
+                        <h5>2</h5>
+                        <p style="font-size: smaller"></p>
+                    </a>
+                </li>
             </ul>
             <p>&mdash; Aditya Prayoga<a href="https://github.com/adityapryg"> (github.com/adityapryg)</a></p>
         </div>
