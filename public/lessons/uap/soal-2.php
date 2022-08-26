@@ -1,14 +1,3 @@
-<?php
-    $array_data = [
-        "npm"   => 201943502046,
-        "nama"  => "ADITYA PRAYOGA"
-    ];
-    
-    $npm = str_split($array_data['npm']);
-    $jml_kolom = array_pop($npm);
-    $jml_baris = array_pop($npm);
-?>
-
 <!doctype html>
 <html lang="en"></html>
 <head>

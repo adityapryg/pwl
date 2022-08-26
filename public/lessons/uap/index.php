@@ -49,8 +49,14 @@
                     </a>
                 </li>
                 <li>
-                    <a class="box text-primary" href="uap/4/calon_mahasiswa/read.php">
+                    <a class="box text-primary" href="uap/calon_mahasiswa/read.php">
                         <h5>4</h5>
+                        <p style="font-size: smaller"></p>
+                    </a>
+                </li>
+                <li>
+                    <a class="box text-primary" href="uap/seleksi/form.php">
+                        <h5>5</h5>
                         <p style="font-size: smaller"></p>
                     </a>
                 </li>
