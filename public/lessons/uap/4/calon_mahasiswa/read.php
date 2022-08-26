@@ -5,7 +5,7 @@
 ?>
 
 <h2>Data Calon Mahasiswa</h2>
-<a href="create.php"><button>Tambah</button></a><br/><br/>
+<a href="form.php"><button>Tambah</button></a><br/><br/>
 <table border="1">
     <tr>
         <th>Kode</th>
@@ -24,7 +24,7 @@
             <td>$data[alamat]</td>
             <td>$data[telp]</td>
             <td>
-                <a href=\"create.php?kode_calon_mhs=$data[kode_calon_mhs]\"><button>Edit</button></a>
+                <a href=\"form.php?kode_calon_mhs=$data[kode_calon_mhs]\"><button>Edit</button></a>
                 <a href=\"delete.php?kode_calon_mhs=$data[kode_calon_mhs]\"><button>Hapus</button></a>
             </td>
         </tr>";
