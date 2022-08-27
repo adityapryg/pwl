@@ -31,31 +31,31 @@
             <h2>UAP: Pemrograman Web Lanjut</h2>
             <ul class="soal">
                 <li>
-                    <a class="box text-primary" href="uap/soal-1.php">
+                    <a class="box text-primary" href="soal-1.php">
                         <h5>1</h5>
                         <p style="font-size: smaller"></p>
                     </a>
                 </li>
                 <li>
-                    <a class="box text-primary" href="uap/soal-2.php">
+                    <a class="box text-primary" href="soal-2.php">
                         <h5>2</h5>
                         <p style="font-size: smaller"></p>
                     </a>
                 </li>
                 <li>
-                    <a class="box text-primary" href="uap/koneksi.php">
+                    <a class="box text-primary" href="koneksi.php">
                         <h5>3</h5>
                         <p style="font-size: smaller"></p>
                     </a>
                 </li>
                 <li>
-                    <a class="box text-primary" href="uap/calon_mahasiswa/read.php">
+                    <a class="box text-primary" href="calon_mahasiswa/read.php">
                         <h5>4</h5>
                         <p style="font-size: smaller"></p>
                     </a>
                 </li>
                 <li>
-                    <a class="box text-primary" href="uap/seleksi/form.php">
+                    <a class="box text-primary" href="seleksi/form.php">
                         <h5>5</h5>
                         <p style="font-size: smaller"></p>
                     </a>
