@@ -14,7 +14,6 @@
         <th>Telp</th>
         <th>Aksi</th>
     </tr>
-    <!-- TODO: Loopin query -->
     <?php
     while ($data = mysqli_fetch_array($mahasiswa))
         echo "
